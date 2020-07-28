@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi I am Joydeep
 
 <!--
 **joydeep2683/joydeep2683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A computer vision enginner with current primary focus in deep learning and image processing. Skilled in Python and Pytorch. Worked on concepts like classification, object detection, face detection & face recognition and object segmentation.
+
+Secondarily, to build pipeline for these products I did software engineering to make those products up and running.
+
+## Find me around the web:
+[LinkedIn](https://www.linkedin.com/in/joydeepballabh/)
